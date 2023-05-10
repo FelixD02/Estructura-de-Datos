@@ -13,3 +13,5 @@ votos_ordenados = np.argsort(-votos)
 print("\nVOTOS OBTENIDOS POR CADA CANDIDATO: ")
 for i in votos_ordenados:
     print(f"\nCandidato ({i+1}) : {votos[i]}")
+    
+#FELIX ADOLFO NIETO RANGEL | 2220093

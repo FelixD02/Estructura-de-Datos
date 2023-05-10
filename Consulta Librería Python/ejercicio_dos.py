@@ -34,3 +34,6 @@ print("\nESTUDIANTES QUE INGRESARON ANTES DE 1990 Y ESTÁN CONDICIONALES: ")
 for x in range(6500):
     if estudiantes[x, 4] < 1990 and estudiantes[x, 2] > 2.7 and estudiantes[x, 2] < 3.2: #Imprime los datos de los estudiantes que entraron antes de 1990 y su promedio está entre 2.7 y 3.2
         print(f"Nombre: {estudiantes[x, 0]} | Código: {estudiantes[x, 1]} | Promedio: {estudiantes[x, 2]} | Año: {estudiantes[x, 4]}")
+
+#FELIX ADOLFO NIETO RANGEL | 2220093        
+        
