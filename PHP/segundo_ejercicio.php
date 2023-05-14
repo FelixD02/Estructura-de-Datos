@@ -4,7 +4,7 @@ require_once 'vendor/autoload.php'; //Mediante Composer intallé la biblioteca f
 
 use Faker\Factory; //Aquí utilizo la biblioteca faker para generar nombre aleatorios
 
-$faker = Factory::create();
+##$faker = Factory::create();
 
 $estudiantes = array();
 
