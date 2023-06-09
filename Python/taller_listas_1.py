@@ -7,7 +7,6 @@ class Nodo:
         self.valor = valor
         self.siguiente = None
     
-
 class Lista:
     
     def __init__(self):
